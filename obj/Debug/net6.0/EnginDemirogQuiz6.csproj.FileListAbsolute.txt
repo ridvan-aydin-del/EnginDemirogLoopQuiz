@@ -1,0 +1,15 @@
+C:\Users\Rıdvan\source\repos\KampIntro\EnginDemirogQuiz6\bin\Debug\net6.0\EnginDemirogQuiz6.exe
+C:\Users\Rıdvan\source\repos\KampIntro\EnginDemirogQuiz6\bin\Debug\net6.0\EnginDemirogQuiz6.deps.json
+C:\Users\Rıdvan\source\repos\KampIntro\EnginDemirogQuiz6\bin\Debug\net6.0\EnginDemirogQuiz6.runtimeconfig.json
+C:\Users\Rıdvan\source\repos\KampIntro\EnginDemirogQuiz6\bin\Debug\net6.0\EnginDemirogQuiz6.dll
+C:\Users\Rıdvan\source\repos\KampIntro\EnginDemirogQuiz6\bin\Debug\net6.0\EnginDemirogQuiz6.pdb
+C:\Users\Rıdvan\source\repos\KampIntro\EnginDemirogQuiz6\obj\Debug\net6.0\EnginDemirogQuiz6.csproj.AssemblyReference.cache
+C:\Users\Rıdvan\source\repos\KampIntro\EnginDemirogQuiz6\obj\Debug\net6.0\EnginDemirogQuiz6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rıdvan\source\repos\KampIntro\EnginDemirogQuiz6\obj\Debug\net6.0\EnginDemirogQuiz6.AssemblyInfoInputs.cache
+C:\Users\Rıdvan\source\repos\KampIntro\EnginDemirogQuiz6\obj\Debug\net6.0\EnginDemirogQuiz6.AssemblyInfo.cs
+C:\Users\Rıdvan\source\repos\KampIntro\EnginDemirogQuiz6\obj\Debug\net6.0\EnginDemirogQuiz6.csproj.CoreCompileInputs.cache
+C:\Users\Rıdvan\source\repos\KampIntro\EnginDemirogQuiz6\obj\Debug\net6.0\EnginDemirogQuiz6.dll
+C:\Users\Rıdvan\source\repos\KampIntro\EnginDemirogQuiz6\obj\Debug\net6.0\refint\EnginDemirogQuiz6.dll
+C:\Users\Rıdvan\source\repos\KampIntro\EnginDemirogQuiz6\obj\Debug\net6.0\EnginDemirogQuiz6.pdb
+C:\Users\Rıdvan\source\repos\KampIntro\EnginDemirogQuiz6\obj\Debug\net6.0\EnginDemirogQuiz6.genruntimeconfig.cache
+C:\Users\Rıdvan\source\repos\KampIntro\EnginDemirogQuiz6\obj\Debug\net6.0\ref\EnginDemirogQuiz6.dll
